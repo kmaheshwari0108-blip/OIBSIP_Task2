@@ -1,0 +1,71 @@
+**House Price Prediction Using Linear Regression**
+
+Project Overview
+
+This project uses Linear Regression to predict house prices based on various property features such as area, number of bedrooms, bathrooms, stories, and parking spaces.
+
+The objective is to build a predictive machine learning model and evaluate its performance using standard regression metrics.
+
+---
+
+Objectives
+
+- Explore and clean housing data
+- Select relevant features
+- Train a Linear Regression model
+- Predict house prices
+- Evaluate model performance
+- Visualize prediction results
+
+---
+
+Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-Learn
+
+---
+
+Evaluation Metrics
+
+Mean Squared Error (MSE)
+
+Measures the average squared difference between actual and predicted values.
+
+R² Score
+
+Measures how well the model explains the variance in house prices.
+
+---
+
+Visualizations
+
+- Correlation Heatmap
+- Actual vs Predicted Price Scatter Plot
+- Feature Relationship Analysis
+
+---
+
+Results
+
+The Linear Regression model successfully predicts house prices using property features and demonstrates the practical application of machine learning for regression problems.
+
+---
+
+Learning Outcomes
+
+- Understanding Linear Regression
+- Data Preprocessing Techniques
+- Model Training and Testing
+- Performance Evaluation
+- Data Visualization
+
+---
+
+Author
+
+Madhav Maheshwari
