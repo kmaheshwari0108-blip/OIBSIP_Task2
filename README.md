@@ -21,6 +21,7 @@ Objectives
 
 Technologies Used
 
+- VScode
 - Python
 - Pandas
 - NumPy
