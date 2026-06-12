@@ -4,8 +4,6 @@ Project Overview
 
 This project uses Linear Regression to predict house prices based on various property features such as area, number of bedrooms, bathrooms, stories, and parking spaces.
 
-The objective is to build a predictive machine learning model and evaluate its performance using standard regression metrics.
-
 ---
 
 Objectives
