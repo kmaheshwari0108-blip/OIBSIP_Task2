@@ -53,7 +53,7 @@ Visualizations
 
 Results
 
-The Linear Regression model successfully predicts house prices using property features and demonstrates the practical application of machine learning for regression problems.
+The Linear Regression model successfully predicts house prices using property features and demonstrates the practical application for regression problems.
 
 ---
 
