@@ -10,7 +10,6 @@ Objectives
 
 - Explore and clean housing data
 - Select relevant features
-- Train a Linear Regression model
 - Predict house prices
 - Evaluate model performance
 - Visualize prediction results
@@ -59,7 +58,6 @@ Learning Outcomes
 
 - Understanding Linear Regression
 - Data Preprocessing Techniques
-- Model Training and Testing
 - Performance Evaluation
 - Data Visualization
 
